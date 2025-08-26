@@ -1,0 +1,7 @@
+{
+  "name": "Вася",
+  "surname": "Иванов",
+  "age": 20,
+  "mail": "vasya@mail.ru",
+  "dateOfBirth": "2000-09-01T00:00:00"
+}
